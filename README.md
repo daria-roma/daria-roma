@@ -1,4 +1,8 @@
 ### Hi there 👋
+- 👩‍💻 I’m Daria
+- 👀 I’m interested in Data Engineering, Database Management and Architecture
+- 🌱 I’m currently learning Python and SQL
+- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/daria-petrova-romanova/)
 
 <!--
 **daria-roma/daria-roma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
